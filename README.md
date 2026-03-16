@@ -208,6 +208,4 @@ This project is for **educational and research purposes**.
 
 # Author
 
-Vivek
-Electronics and Instrumentation Engineering
-Blockchain and Web Development Enthusiast
+Vivek Sharma
